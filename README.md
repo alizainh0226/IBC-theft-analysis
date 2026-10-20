@@ -41,3 +41,6 @@ What makes newer cars more expensive to insure, and how much of it is theft?
 
 ## Tools
 Python (pandas, matplotlib), Google Colab
+
+## Author
+Alizain Hirani · [LinkedIn](https://www.linkedin.com/in/alizain-hirani-833969216)
