@@ -12,10 +12,10 @@ What makes newer cars more expensive to insure, and how much of it is theft?
 - **The pure theft tax is rare.** Only 13 vehicles, mostly trucks and 4x4s like the Wrangler and Silverado, are cheap to insure on everything except theft.
 
 ## Charts
-![Claim costs by model year](Charts/chart_3.png)
-![Theft risk by make](Charts/chart_4.png)
-![Repair cost vs theft](Charts/chart_5.png)
-![Ontario premium growth](Charts/chart_6.png)
+![Claim costs by model year](Charts/Chart_3.png)
+![Theft risk by make](Charts/Chart_4.png)
+![Repair cost vs theft](Charts/Chart_5.png)
+![Ontario premium growth](Charts/Chart_6.png)
 
 ## Data
 - **IBC How Cars Measure Up 2026:** claim cost ratings for about 5,800 vehicles (1998–2026 model years). Download it from IBC's website; the raw file isn't included in this repo.
